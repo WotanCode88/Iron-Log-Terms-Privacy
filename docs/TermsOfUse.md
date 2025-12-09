@@ -1,6 +1,6 @@
 # Terms of Use — Iron Log
 
-Effective date: 2025-03-09
+Effective date: 2025-12-09
 Developer: Evgeny Pozin
 
 Welcome to Iron Log. By downloading, installing, or using Iron Log (the “App”), you agree to these Terms of Use (“Terms”). If you do not agree, do not use the App.

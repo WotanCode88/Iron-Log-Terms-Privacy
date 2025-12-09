@@ -1,7 +1,7 @@
 # Privacy Policy — Iron Log
 
 Privacy Policy — Iron Log
-Effective date: 2025-03-09
+Effective date: 2025-12-09
 Developer: Evgeny Pozin
 
 Thank you for using Iron Log. This Privacy Policy explains how Iron Log handles information.
